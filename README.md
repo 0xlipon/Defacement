@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://0xlipon.github.io/Defacement/index.html" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/000000/bug.png" alt="Subdomain-Takeover-POC" style="width: 80px; height: auto; transition: transform 0.3s ease;"/>
+        <img src="https://img.icons8.com/ios-filled/50/000000/bug.png" alt="Deface Page" style="width: 80px; height: auto; transition: transform 0.3s ease;"/>
         <br/>
         <span style="font-size: 20px; font-weight: bold; color: #333;">Deface Page</span>
     </a>
